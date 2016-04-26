@@ -1,11 +1,13 @@
 /**
  * Timeago is a jQuery plugin that makes it easy to support automatically
  * updating fuzzy timestamps (e.g. "4 minutes ago" or "about 1 day ago").
+ * PERSIAN language added to this version
  *
  * @name timeago
  * @version 1.5.2
  * @requires jQuery v1.2.3+
  * @author Ryan McGeary
+ * @contributor webgodo
  * @license MIT License - http://www.opensource.org/licenses/mit-license.php
  *
  * For usage and examples, visit:
@@ -49,20 +51,20 @@
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "ago",
-        suffixFromNow: "from now",
-        inPast: 'any moment now',
-        seconds: "less than a minute",
-        minute: "about a minute",
-        minutes: "%d minutes",
-        hour: "about an hour",
-        hours: "about %d hours",
-        day: "a day",
-        days: "%d days",
-        month: "about a month",
-        months: "%d months",
-        year: "about a year",
-        years: "%d years",
+        suffixAgo: "پیش",
+        suffixFromNow: "از حالا",
+        inPast: 'چندلحظه پیش',
+        seconds: "کم تر از یک دقیقه پیش",
+        minute: "یک دقیقه پیش",
+        minutes: "%d دقیقه",
+        hour: "یک ساعت پیش",
+        hours: "%d ساعت پیش",
+        day: "یک روز",
+        days: "%d روز",
+        month: "یک ماه پیش",
+        months: "%d ماه",
+        year: "یک سال پیش",
+        years: "%d سال",
         wordSeparator: " ",
         numbers: []
       }
