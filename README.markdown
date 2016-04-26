@@ -1,4 +1,4 @@
-# timeago: a jQuery plugin
+# timeago Persian (FARSI - فارسی): a jQuery plugin
 
 [![NPM](https://img.shields.io/npm/v/timeago.svg)](https://www.npmjs.com/package/timeago)
 [![Bower](https://img.shields.io/bower/v/jquery-timeago.svg)](http://bower.io/search/?q=jquery-timeago)
