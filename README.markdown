@@ -107,6 +107,9 @@ jQuery.timeago.settings.cutoff = 1000*60*60*24;
 ## Author
 
 [Ryan McGeary](http://ryan.mcgeary.org) ([@rmm5t](http://twitter.com/rmm5t))
+
+## Persian Contributor
+
 [webgodo](http://m3g.ir)
 
 ## Other
