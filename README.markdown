@@ -9,12 +9,6 @@ formatted dates and times embedded in your HTML (à la microformats).
 
 ---
 
-**How You Can Help**
-
-[![Square Cash](http://img.shields.io/badge/square%20cash-$rmm5t-brightgreen.svg)][square]
-[![PayPal](http://img.shields.io/badge/paypal-rmm5t-blue.svg)][paypal]
-[![Book a Codementor session](http://img.shields.io/badge/codementor-book%20a%20session-orange.svg)][codementor]
-
 If you like this project, [buy me a coffee][paypal], or [book a session with me][codementor], or donate bitcoin: `1rmm5tv6f997JK5bLcGbRCZyVjZUPkQ2m`
 
 [square]: https://cash.me/$rmm5t/5 "Donate to rmm5t for open source!"
