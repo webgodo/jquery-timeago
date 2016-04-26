@@ -12,6 +12,7 @@
  *
  * For usage and examples, visit:
  * http://timeago.yarp.com/
+ * repositiory: https://github.com/webgodo/jquery-timeago
  *
  * Copyright (c) 2008-2015, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
  */
